@@ -20,3 +20,7 @@ html, body {
     margin: 0 auto;
     text-align: center;
 }
+.quote {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 2.5rem;
+}
